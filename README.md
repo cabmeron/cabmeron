@@ -8,15 +8,10 @@
     </td>
     <td style="width: 25%; padding: 5px; text-align: center; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/5549242b-f963-43de-9373-520a317fce17" alt="Descriptive text for image 3" style="width: 100%; max-width: 180px; height: 7vw; max-height: 180px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"/>
-    </td>
+    </td>   
+    <td style="width: 25%; padding: 5px; text-align: center; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/39feae8c-236a-473b-8823-105574562977" alt="Descriptive text for image 3" style="width: 100%; max-width: 180px; height: 7vw; max-height: 180px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"/>
+    </td>   
   </tr>
 </table>
-
-
-
-
-
-
-
-
 
